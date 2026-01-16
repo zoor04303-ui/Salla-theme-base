@@ -1,13 +1,38 @@
 {
-  "name": "Beauty Theme",
+  "name": "Beauty Luxury Theme",
   "version": "1.0.0",
   "author": "Roza",
-  "description": "Elegant beauty theme for Salla stores",
+  "description": "Luxury beauty theme designed for cosmetics and skincare stores on Salla",
+  "branding": {
+    "logo": "",
+    "favicon": ""
+  },
   "colors": {
     "primary": "#E91E63",
     "secondary": "#F8BBD0",
     "background": "#FFFFFF",
-    "text": "#333333"
+    "surface": "#FFF5F8",
+    "text": "#333333",
+    "muted_text": "#777777",
+    "border": "#F0DDE4",
+    "button_primary": "#E91E63",
+    "button_text": "#FFFFFF"
   },
-  "font": "Cairo"
+  "fonts": {
+    "heading": "Cairo",
+    "body": "Cairo"
+  },
+  "ui": {
+    "border_radius": 12,
+    "button_radius": 24,
+    "card_shadow": true,
+    "spacing": "comfortable"
+  },
+  "images": {
+    "hero": "",
+    "banner": "",
+    "category_placeholder": "",
+    "product_placeholder": ""
+  }
 }
+

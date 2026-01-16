@@ -1,0 +1,13 @@
+{
+  "name": "Beauty Theme",
+  "version": "1.0.0",
+  "author": "Roza",
+  "description": "Elegant beauty theme for Salla stores",
+  "colors": {
+    "primary": "#E91E63",
+    "secondary": "#F8BBD0",
+    "background": "#FFFFFF",
+    "text": "#333333"
+  },
+  "font": "Cairo"
+}
